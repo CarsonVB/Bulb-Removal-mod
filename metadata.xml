@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>No More Bulbs</name>
+    <directory>nomorebulbs</directory>
+    <id>2506570909</id>
+    <description>replaces any bulb flies that spawn with a &quot;poof&quot; animation, similar to being erased via the eraser item.
+
+tweaks coming later... maybe</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Enemies"/>
+    <tag id="Tweaks"/>
+    <tag id="Removals"/>
+</metadata>
